@@ -1,0 +1,31 @@
+cls
+cd Desktop
+ren Atividade01 Trabalhos
+md Documentos 
+cd Documentos
+md Projetos
+md Pessoais
+cd ..
+move /y Trabalhos Documentos
+move /y Backup Documentos
+ren Pessoais Lazer
+cd Documentos 
+ren Pessoais Lazer
+cd Lazer
+echo Fran‡a >> Viagem.txt
+echo Canad  >> Viagem.txt
+echo Franca > Viagem.txt
+echo Canad  >> Viagem.txt
+echo Noruega >> Viagem.txt
+echo Estados Unidos >> Viagem.txt
+echo Espanha >> Viagem.txt
+dir
+echo Canada >> Viagem.txt
+echo Franca >> Viagem.txt
+echo Noruega >> Viagem.txt
+echo Estados Unidos >> Viagem.txt
+echo Espanha >> Viagem.txt
+dir C:\Users\Aluno\Desktop\Documentos\Lazer
+dir C:\Users\Aluno\Desktop\Documentos
+cd ..
+doskey /history >> Nicolas.txt
