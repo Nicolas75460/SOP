@@ -29,3 +29,5 @@ dir C:\Users\Aluno\Desktop\Documentos\Lazer
 dir C:\Users\Aluno\Desktop\Documentos
 cd ..
 doskey /history >> Nicolas.txt
+tree /f
+doskey /history > Nicolas.txt
