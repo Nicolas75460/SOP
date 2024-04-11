@@ -12,10 +12,10 @@ ren Pessoais Lazer
 cd Documentos 
 ren Pessoais Lazer
 cd Lazer
-echo Fran‡a >> Viagem.txt
-echo Canad  >> Viagem.txt
+echo Franâ€¡a >> Viagem.txt
+echo CanadÂ  >> Viagem.txt
 echo Franca > Viagem.txt
-echo Canad  >> Viagem.txt
+echo CanadÂ  >> Viagem.txt
 echo Noruega >> Viagem.txt
 echo Estados Unidos >> Viagem.txt
 echo Espanha >> Viagem.txt
